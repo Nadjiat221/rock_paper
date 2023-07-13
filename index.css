@@ -1,0 +1,41 @@
+.center{
+    justify-content: center;
+
+}
+h3{
+    /* margin-top: 50px;
+    margin-left: 500px; */
+    font-size: 28px;
+}
+h6{
+    /* margin-left: 500px; */
+    font-size: 22px;
+}
+.button button{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    background-color: white;
+    border: 3px solid brown;
+    /* margin-top: 80px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    margin-right: 100px; */
+    border-radius: 20px ;
+}
+.button button:hover{
+    background-color: brown;
+    
+    
+}
+.button button:hover a{
+    color: white;
+    
+}
+
+.button a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
